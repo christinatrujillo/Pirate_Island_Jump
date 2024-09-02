@@ -1,10 +1,5 @@
-TIMESTAPMP: 00:00
-VIDEO: https://www.youtube.com/watch?v=hEL3wO-EOZg&list=PL8ui5HK3oSiGXM2Pc2DahNu1xXBf7WQh-&index=6
-
 Resources:
-SPRITES https://pixelfrog-assets.itch.io/kings-and-pigs
 Tiles - https://www.mapeditor.org/ - to make map levels
-# for splitting kings + pigs images https://products.aspose.app/pdf/split-png
 coin effect: https://mixkit.co/free-sound-effects/game/
 
 changes made:
@@ -12,8 +7,6 @@ changes made:
 2) made sure that health never exceeds max health
 3) when player touches crate, they gain health
 4) water slowly rises and player takes damage when they touch the water
-
-game design to keep in mind, you can jump on crates 
 
 Focus:
 1) redesign levels w/ intention of water slowly rising - lvl 5 + 6 should be water rising levels
