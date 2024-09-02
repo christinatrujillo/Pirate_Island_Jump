@@ -21,7 +21,7 @@ level 5 may need to be swapped
 later on maybe labeled level 2 will need to be 5 and 5 will go to labeled 3 or 2. 
 
 IDEAS my adjustments from original:
-1) redesign of levels: https://www.youtube.com/watch?v=wJMDh9QGRgs&list=PL8ui5HK3oSiGXM2Pc2DahNu1xXBf7WQh-&index=3
+1) redesign of levels
 2) timer that starts at level 3 and ends at 6. 
 3) starting at level 5: water slowly raises as player goes through level. if they don't complete the level before water touches player, they die. 
 4) home screen. start game button + directions (silver 1, gold 5, jump on enemies, don't touch water, if you get 20 coins, you get a speed boost). 
