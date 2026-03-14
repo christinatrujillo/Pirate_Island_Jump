@@ -4,7 +4,7 @@ A 2D platformer set in a pirate world, featuring multiple levels, collectible co
 
 ---
 
-## 🎮 Gameplay Overview
+## Gameplay Overview
 
 Navigate through a series of pirate-themed levels, jumping across platforms, defeating enemies, and collecting coins — all while keeping an eye on the rising water below. Can you escape before the tide catches up?
 
@@ -19,14 +19,14 @@ Navigate through a series of pirate-themed levels, jumping across platforms, def
 
 ---
 
-## 🗺️ Level Structure
+## Level Structure
 
 | Level (In-Game) | Description |
 |---|---|
 | Overworld | Hub world; player health resets upon return |
 | Level 1 | Introductory platforming |
 | Level 2 | Standard platforming |
-| Level 3 (In-game: 4) | Timer begins |
+| Level 3 | Timer begins |
 | Level 4 | Timed platforming |
 | Level 5 | Rising water mechanic begins |
 | Level 6 | Final challenge — timed + rising water |
@@ -35,7 +35,7 @@ Navigate through a series of pirate-themed levels, jumping across platforms, def
 
 ---
 
-## 🕹️ Controls
+## Controls
 
 | Action | Key |
 |---|---|
@@ -45,7 +45,7 @@ Navigate through a series of pirate-themed levels, jumping across platforms, def
 
 ---
 
-## ⚙️ Installation & Setup
+## Installation & Setup
 
 ### Prerequisites
 
@@ -65,7 +65,7 @@ python main.py
 ```
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 Pirate_Island_Jump/
@@ -79,7 +79,7 @@ Pirate_Island_Jump/
 
 ---
 
-## 🛠️ Tools & Resources
+## Tools & Resources
 
 - **[Tiled Map Editor](https://www.mapeditor.org/)** — Used to design and build level layouts
 - **[Mixkit](https://mixkit.co/free-sound-effects/game/)** — Source for coin collection sound effects
@@ -98,14 +98,10 @@ Pirate_Island_Jump/
 
 ---
 
-## 📝 Developer Notes
+## Developer Notes
 
 - Player health is capped at the maximum value and never exceeds it
 - Water rise speed is still being tuned — currently under active development
 - Later level ordering may be reshuffled as the water mechanic is refined
 
 ---
-
-## 👩‍💻 Author
-
-**Christina Trujillo** — [GitHub](https://github.com/christinatrujillo)
